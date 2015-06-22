@@ -1,0 +1,8 @@
+====================================
+ Comment utiliser notre programme ?	
+====================================
+
+- tout compiler via la commande "make"
+- exécution sous la forme ./bin/egrep "<regex>" <fichier1> <fichier2> ...
+
+Note: l'expression régulière doit absolument être entre guillemets pour être reconnue.
